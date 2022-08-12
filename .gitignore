@@ -4,3 +4,7 @@ DerivedDataCache/
 Collections/
 Developers/
 Script/
+.vs/
+demo.sln
+Binaries/
+Build/

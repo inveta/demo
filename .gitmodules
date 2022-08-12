@@ -1,3 +1,6 @@
 [submodule "Plugins/PLSB"]
 	path = Plugins/PLSB
 	url = https://github.com/inveta/PLSB
+[submodule "Plugins/SingleTon"]
+	path = Plugins/SingleTon
+	url = https://github.com/inveta/SingleTon
