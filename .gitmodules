@@ -1,0 +1,3 @@
+[submodule "Plugins/PLSB"]
+	path = Plugins/PLSB
+	url = https://github.com/inveta/PLSB

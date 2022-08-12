@@ -1,4 +1,6 @@
-Binaries/*
-Saved/*
-Intermediate/*
-DerivedDataCache/*
+Saved/
+Intermediate/
+DerivedDataCache/
+Collections/
+Developers/
+Script/
