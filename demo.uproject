@@ -15,6 +15,10 @@
 		{
 			"Name": "OpenImageDenoise",
 			"Enabled": false
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
