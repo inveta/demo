@@ -26,6 +26,10 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "PLSB",
+			"Enabled": true
 		}
 	]
 }
