@@ -1,12 +1,11 @@
 # 三维可视化Demo
 
-
-
 ## 下载打包后程序(releases)
 
 1. https://github.com/inveta/demo/releases
 2. 选择最新版下载zip包，解压
 3. 运行bat文件，只支持Windows
+4. 此时会弹出信令窗口，接着会打开网页
 
 ## 开发
 
